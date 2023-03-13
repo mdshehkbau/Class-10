@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 90%;
+    margin: auto;
+}
+    /* Header-Part */
+
+.header-part {
+    width: 100%;
+    float: left;
+    overflow: hidden;
+}
+.div-1 {
+    width: 50%;
+    float: left;
+}
+.div-2 {
+    width: 50%;
+    float: left;  
+}
+.row {
+    width: 100%;
+    background-color: #87509c;
+    float: left;
+}
+.row-2 {
+    width: 100%;
+    background-color: #17c2a4;
+}
+
+
+
